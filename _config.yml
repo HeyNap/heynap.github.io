@@ -1,0 +1,9 @@
+# GitHub Pages builds the site with Jekyll. The pages are plain HTML (no front
+# matter), so Jekyll copies them as they are; this file only says what to
+# publish and what to leave out.
+include:
+  - .well-known
+exclude:
+  - tools
+  - README.md
+  - SETUP.md

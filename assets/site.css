@@ -1,0 +1,141 @@
+/* HeyNap: the site's one stylesheet. The app's Slate palette: near-black,
+   slate glows, one amber lamp; Quicksand for display, Lato for reading. */
+
+@font-face { font-family: Quicksand; font-weight: 500; font-display: swap; src: url(fonts/Quicksand-Medium.woff2) format('woff2'); }
+@font-face { font-family: Quicksand; font-weight: 700; font-display: swap; src: url(fonts/Quicksand-Bold.woff2) format('woff2'); }
+@font-face { font-family: Lato; font-weight: 400; font-display: swap; src: url(fonts/Lato-Regular.woff2) format('woff2'); }
+@font-face { font-family: Lato; font-weight: 700; font-display: swap; src: url(fonts/Lato-Bold.woff2) format('woff2'); }
+
+:root {
+  color-scheme: dark;
+  --ground: #0E0F13;
+  --ink: #08090C;
+  --surface: rgba(255, 255, 255, .05);
+  --hairline: rgba(255, 255, 255, .10);
+  --text: #F5F5F7;
+  --text-2: rgba(245, 245, 247, .72);
+  --text-3: rgba(245, 245, 247, .52);
+  --accent: #F2A964;
+  --brand: #9ED0F5;
+  --brand-light: #C4E3FA;
+  --display: Quicksand, ui-rounded, system-ui, sans-serif;
+  --body: Lato, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --gutter: 16px;
+}
+@media (min-width: 640px) { :root { --gutter: 32px; } }
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0; min-height: 100vh; background: var(--ground); color: var(--text);
+  font: 400 17px/1.6 var(--body); -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+/* The night sky: the app's glows, fixed behind everything. */
+body::before {
+  content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(60vmax 45vmax at 0% 85%, rgba(38, 42, 54, .9), transparent 70%),
+    radial-gradient(45vmax 45vmax at 10% 25%, rgba(52, 54, 68, .7), transparent 70%),
+    radial-gradient(55vmax 50vmax at 95% 5%, rgba(43, 47, 60, .9), transparent 70%),
+    radial-gradient(40vmax 35vmax at 100% 100%, rgba(116, 72, 42, .42), transparent 70%),
+    var(--ground);
+}
+
+a { color: var(--brand); text-underline-offset: 3px; }
+a:hover { color: var(--brand-light); }
+:focus-visible { outline: 2px solid var(--brand); outline-offset: 3px; border-radius: 6px; }
+img { max-width: 100%; height: auto; }
+h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.15; letter-spacing: -.01em; margin: 0; }
+
+.wrap { width: 100%; max-width: 1120px; margin: 0 auto; padding: 0 var(--gutter); }
+.skip { position: absolute; left: -999px; }
+.skip:focus { left: var(--gutter); top: 12px; background: var(--text); color: var(--ink); padding: 8px 12px; z-index: 10; }
+
+/* Header and footer */
+.top { padding: 20px 0; }
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.brand { display: inline-flex; align-items: center; gap: 12px; color: var(--text); text-decoration: none; font: 700 22px/1 var(--display); }
+.brand:hover { color: var(--text); }
+.brand img { width: 40px; height: 40px; }
+.top nav a { color: var(--text-2); text-decoration: none; font-size: 15px; }
+.top nav a:hover { color: var(--text); }
+
+.foot { margin-top: 96px; padding: 32px 0 48px; border-top: 1px solid var(--hairline); color: var(--text-3); font-size: 14px; }
+.foot .wrap { display: flex; flex-wrap: wrap; gap: 12px 28px; align-items: center; justify-content: space-between; }
+.foot nav { display: flex; flex-wrap: wrap; gap: 8px 22px; }
+.foot a { color: var(--text-2); text-decoration: none; }
+.foot a:hover { color: var(--text); text-decoration: underline; }
+
+/* Store badges: Apple's and Google's artwork, unaltered, at equal height. */
+.stores { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.stores a { display: block; line-height: 0; border-radius: 9px; transition: transform .15s ease; }
+.stores a:hover { transform: translateY(-1px); }
+.stores img { height: 52px; width: auto; }
+.stores .play img { border-radius: 8px; }
+
+/* Home: hero */
+.hero { padding: 40px 0 24px; text-align: center; }
+.hero .icon { width: 112px; height: 112px; margin: 0 auto 28px; display: block; filter: drop-shadow(0 18px 36px rgba(0, 0, 0, .45)); }
+.hero h1 { font-size: clamp(38px, 7vw, 68px); max-width: 15ch; margin: 0 auto 20px; }
+.hero .lede { font-size: clamp(18px, 2.2vw, 21px); color: var(--text-2); max-width: 36em; margin: 0 auto 32px; }
+.hero .stores { justify-content: center; }
+
+/* Home: the three screens */
+.screens { list-style: none; margin: 72px auto 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 48px; }
+.screens li { text-align: center; }
+.phone {
+  width: 100%; max-width: 300px; margin: 0 auto 28px; border-radius: 13% / 6%; overflow: hidden;
+  box-shadow: 0 0 0 7px #1c1d22, 0 0 0 8px rgba(255, 255, 255, .12), 0 30px 60px rgba(0, 0, 0, .5);
+  aspect-ratio: 780 / 1768; background: var(--ink);
+}
+.phone img { display: block; width: 100%; height: 100%; }
+.screens h2 { font-size: 24px; margin-bottom: 10px; }
+.screens p { margin: 0 auto; color: var(--text-2); max-width: 22em; }
+@media (max-width: 860px) {
+  .screens {
+    display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 20px;
+    margin: 56px calc(-1 * var(--gutter)) 0; padding: 12px var(--gutter) 8px;
+    scrollbar-width: none;
+  }
+  .screens::-webkit-scrollbar { display: none; }
+  .screens li { flex: 0 0 min(78vw, 300px); scroll-snap-align: center; }
+}
+
+/* Home: questions and the last call */
+.faq { max-width: 720px; margin: 112px auto 0; }
+.faq > h2, .cta h2 { font-size: clamp(28px, 4vw, 36px); margin-bottom: 24px; }
+.faq details { border-top: 1px solid var(--hairline); padding: 18px 0; }
+.faq details:last-child { border-bottom: 1px solid var(--hairline); }
+.faq summary { cursor: pointer; font: 700 19px/1.4 var(--display); list-style: none; display: flex; justify-content: space-between; gap: 16px; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: '+'; color: var(--text-3); font-weight: 500; }
+.faq details[open] summary::after { content: '–'; }
+.faq details p { margin: 12px 0 0; color: var(--text-2); }
+
+.cta { margin: 112px auto 0; text-align: center; }
+.cta p { color: var(--text-2); margin: 0 auto 28px; max-width: 32em; }
+.cta .stores { justify-content: center; }
+.cta .note { margin-top: 20px; font-size: 14px; color: var(--text-3); }
+
+/* Documents: privacy, terms, support */
+.doc { max-width: 760px; margin: 0 auto; padding-top: 24px; }
+.doc h1 { font-size: clamp(34px, 5vw, 48px); margin-bottom: 8px; }
+.doc .updated { color: var(--text-3); font-size: 15px; margin: 0 0 36px; }
+.doc h2 { font-size: 24px; margin: 48px 0 14px; }
+.doc h3 { font-size: 19px; margin: 28px 0 10px; }
+.doc p, .doc li { color: var(--text-2); }
+.doc strong { color: var(--text); }
+.doc ul { padding-left: 22px; }
+.doc li { margin-bottom: 6px; }
+.doc .summary { background: var(--surface); border: 1px solid var(--hairline); border-radius: 16px; padding: 8px 24px; margin: 0 0 8px; }
+.doc .summary li { color: var(--text); }
+.doc .table { overflow-x: auto; margin: 16px 0; }
+.doc table { border-collapse: collapse; width: 100%; font-size: 15px; min-width: 560px; }
+.doc th, .doc td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--hairline); color: var(--text-2); }
+.doc th { color: var(--text); font-weight: 700; }
+.doc .contact { background: var(--surface); border: 1px solid var(--hairline); border-radius: 16px; padding: 20px 24px; }
+.doc .contact p { margin: 0 0 6px; }
+.doc .caps { font-size: 15px; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }

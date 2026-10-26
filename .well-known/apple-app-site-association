@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["R4XU5D868Y.app.heynap.mobile"],
+        "components": [
+          { "/": "/open/*", "comment": "Links into the app (a day, a log, a screen)" },
+          { "/": "/invite/*", "comment": "Invitations to share a baby's log" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["R4XU5D868Y.app.heynap.mobile"]
+  }
+}

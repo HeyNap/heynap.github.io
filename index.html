@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>HeyNap: Baby Sleep Tracker and Nap Schedule</title>
+  <meta name="description" content="HeyNap plans your baby's naps and bedtime from their age and the sleep you log, and reminds you before the next nap. Log sleep, feeds, diapers, health and growth.">
+  <link rel="canonical" href="https://heynap.app/">
+  <link rel="alternate" hreflang="en" href="https://heynap.app/">
+  <link rel="alternate" hreflang="x-default" href="https://heynap.app/">
+  <meta name="theme-color" content="#0E0F13">
+  <meta name="color-scheme" content="dark">
+
+  <!-- Smart App Banner (Safari on iPhone): uncomment with the App Store id. -->
+  <!-- <meta name="apple-itunes-app" content="app-id=APP_STORE_ID"> -->
+
+  <!-- Sharing -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="HeyNap">
+  <meta property="og:url" content="https://heynap.app/">
+  <meta property="og:title" content="HeyNap: know when the next nap is coming">
+  <meta property="og:description" content="A baby sleep tracker that plans naps and bedtime around your baby, and reminds you before the next nap.">
+  <meta property="og:image" content="https://heynap.app/assets/img/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="HeyNap: the day as a ring, with the next nap in 35 minutes">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="HeyNap: know when the next nap is coming">
+  <meta name="twitter:description" content="A baby sleep tracker that plans naps and bedtime around your baby, and reminds you before the next nap.">
+  <meta name="twitter:image" content="https://heynap.app/assets/img/og.png">
+  <meta name="twitter:image:alt" content="HeyNap: the day as a ring, with the next nap in 35 minutes">
+
+  <!-- Icons and install -->
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <link rel="preload" href="/assets/fonts/Quicksand-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/Lato-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/site.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://heynap.app/#org",
+        "name": "HeyNap",
+        "legalName": "Diaconu Mobile Apps SRL",
+        "url": "https://heynap.app/",
+        "logo": "https://heynap.app/assets/img/icon-512.png",
+        "email": "postmuseapp+heynap@gmail.com",
+        "taxID": "38455506",
+        "identifier": "ROONRC.J22/3376/2017",
+        "address": { "@type": "PostalAddress", "streetAddress": "B-dul Tudor Vladimirescu 45A", "addressLocality": "Iasi", "postalCode": "707401", "addressCountry": "RO" }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://heynap.app/#site",
+        "url": "https://heynap.app/",
+        "name": "HeyNap",
+        "inLanguage": "en",
+        "publisher": { "@id": "https://heynap.app/#org" }
+      },
+      {
+        "@type": "MobileApplication",
+        "name": "HeyNap",
+        "description": "A baby sleep tracker that plans naps and bedtime from the baby's age and the sleep you log, and reminds you before the next nap. Also logs feeds, diapers, health and growth.",
+        "operatingSystem": "iOS",
+        "applicationCategory": "HealthApplication",
+        "image": "https://heynap.app/assets/img/icon-512.png",
+        "screenshot": [
+          "https://heynap.app/assets/img/next-nap.png",
+          "https://heynap.app/assets/img/log.png",
+          "https://heynap.app/assets/img/stats.png"
+        ],
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "publisher": { "@id": "https://heynap.app/#org" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          { "@type": "Question", "name": "How does HeyNap plan naps?", "acceptedAnswer": { "@type": "Answer", "text": "It starts from what is typical for your baby's age: how long they can stay awake, how many naps they take and how long. As you log naps and bedtimes, the plan follows your baby's own rhythm, and it updates through the day from what you log." } },
+          { "@type": "Question", "name": "What ages is HeyNap for?", "acceptedAnswer": { "@type": "Answer", "text": "From birth to two years. Under two months, babies don't keep a schedule yet, so the plan is only a guide: follow your baby's sleepy cues." } },
+          { "@type": "Question", "name": "Is HeyNap free?", "acceptedAnswer": { "@type": "Answer", "text": "Logging sleep, feeds, diapers, health and growth is free. The plan, nap predictions and reminders are part of a subscription." } },
+          { "@type": "Question", "name": "Is HeyNap medical advice?", "acceptedAnswer": { "@type": "Answer", "text": "No. HeyNap gives general guidance on when your baby may be ready to sleep. It doesn't diagnose anything. If you're worried about your baby's sleep or health, talk to your pediatrician." } }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="/" aria-label="HeyNap home">
+        <img src="/assets/img/logo-128.png" width="40" height="40" alt="">HeyNap
+      </a>
+      <nav aria-label="Site"><a href="/support/">Support</a></nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero wrap">
+      <img class="icon" src="/assets/img/icon-192.png" srcset="/assets/img/icon-192.png 1x, /assets/img/icon-512.png 3x" width="112" height="112" alt="The HeyNap app icon: a sleeping baby's face">
+      <h1>Know when the next nap is coming.</h1>
+      <p class="lede">HeyNap plans your baby's naps and bedtime from their age and the sleep you log. It reminds you before the next nap, so you can start winding down in time.</p>
+      <div class="stores">
+        <a class="apple" href="https://apps.apple.com/app/idAPP_STORE_ID"><img src="/assets/img/badge-app-store.svg" width="156" height="52" alt="Download on the App Store"></a>
+        <!-- Android launch: uncomment. -->
+        <!-- <a class="play" href="https://play.google.com/store/apps/details?id=app.heynap.mobile"><img src="/assets/img/badge-google-play.png" width="175" height="52" alt="Get it on Google Play"></a> -->
+      </div>
+    </section>
+
+    <section class="wrap" aria-label="What HeyNap does">
+      <ul class="screens">
+        <li>
+          <div class="phone">
+            <picture>
+              <source type="image/webp" srcset="/assets/img/next-nap.webp 390w, /assets/img/next-nap@2x.webp 780w" sizes="300px">
+              <img src="/assets/img/next-nap.png" width="390" height="884" alt="The day as a ring: naps planned around it, and the next nap in 35 minutes, at 10:50" loading="lazy">
+            </picture>
+          </div>
+          <h2>The next nap, ahead of time</h2>
+          <p>See when the next nap and bedtime are due. The plan keeps up with your baby and learns from every nap you log.</p>
+        </li>
+        <li>
+          <div class="phone">
+            <picture>
+              <source type="image/webp" srcset="/assets/img/log.webp 390w, /assets/img/log@2x.webp 780w" sizes="300px">
+              <img src="/assets/img/log.png" width="390" height="884" alt="Add to today: sleep, feeds and diapers, routine, health and growth" loading="lazy">
+            </picture>
+          </div>
+          <h2>Sleep, feeds, diapers and more</h2>
+          <p>Log naps, night wakings, nursing, bottles, diapers, medicine, temperature, growth and teeth, all in one place.</p>
+        </li>
+        <li>
+          <div class="phone">
+            <picture>
+              <source type="image/webp" srcset="/assets/img/stats.webp 390w, /assets/img/stats@2x.webp 780w" sizes="300px">
+              <img src="/assets/img/stats.png" width="390" height="884" alt="Stats for the last 7 days: 14 hours 15 minutes of sleep a day, and the longest stretch at night growing to 8 hours 5 minutes" loading="lazy">
+            </picture>
+          </div>
+          <h2>How the week went</h2>
+          <p>Sleep, wake-up times, feeds and growth, week by week, compared with the week before.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="faq wrap" aria-labelledby="faq">
+      <h2 id="faq">Questions</h2>
+      <details>
+        <summary>How does HeyNap plan naps?</summary>
+        <p>It starts from what is typical for your baby's age: how long they can stay awake, how many naps they take and how long. As you log naps and bedtimes, the plan follows your baby's own rhythm, and it updates through the day from what you log.</p>
+      </details>
+      <details>
+        <summary>What ages is HeyNap for?</summary>
+        <p>From birth to two years. Under two months, babies don't keep a schedule yet, so the plan is only a guide: follow your baby's sleepy cues.</p>
+      </details>
+      <details>
+        <summary>Is HeyNap free?</summary>
+        <p>Logging sleep, feeds, diapers, health and growth is free. The plan, nap predictions and reminders are part of a subscription.</p>
+      </details>
+      <details>
+        <summary>Is HeyNap medical advice?</summary>
+        <p>No. HeyNap gives general guidance on when your baby may be ready to sleep. It doesn't diagnose anything. If you're worried about your baby's sleep or health, talk to your pediatrician.</p>
+      </details>
+    </section>
+
+    <section class="cta wrap" aria-labelledby="get">
+      <h2 id="get">Get HeyNap</h2>
+      <p>Tell it your baby's age and usual wake-up time, and it shows you today's plan.</p>
+      <div class="stores">
+        <a class="apple" href="https://apps.apple.com/app/idAPP_STORE_ID"><img src="/assets/img/badge-app-store.svg" width="156" height="52" alt="Download on the App Store" loading="lazy"></a>
+        <!-- Android launch: uncomment. -->
+        <!-- <a class="play" href="https://play.google.com/store/apps/details?id=app.heynap.mobile"><img src="/assets/img/badge-google-play.png" width="175" height="52" alt="Get it on Google Play" loading="lazy"></a> -->
+      </div>
+      <p class="note">Free to download. Logging is free; the plan and reminders need a subscription.</p>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <nav aria-label="Legal and help">
+        <a href="/support/">Support</a>
+        <a href="/privacy/">Privacy</a>
+        <a href="/terms/">Terms</a>
+        <a href="mailto:postmuseapp+heynap@gmail.com">postmuseapp+heynap@gmail.com</a>
+      </nav>
+      <span>© 2026 Diaconu Mobile Apps SRL · CUI 38455506 · J22/3376/2017</span>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!doctype html>
+<!--
+  The social card: 1200 × 630 (Open Graph, X, iMessage, WhatsApp, Slack…);
+  ?square=1 is the 600 × 600 one. Rendered by tools/build-assets.sh.
+-->
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Quicksand; font-weight: 700; src: url(../assets/fonts/Quicksand-Bold.woff2) format('woff2'); }
+  @font-face { font-family: Lato; font-weight: 400; src: url(../assets/fonts/Lato-Regular.woff2) format('woff2'); }
+  html, body { margin: 0; }
+  .card {
+    position: relative; width: 1200px; height: 630px; overflow: hidden; color: #F5F5F7;
+    background:
+      radial-gradient(520px 420px at 8% 92%, rgba(38,42,54,.95), transparent 70%),
+      radial-gradient(420px 380px at 20% 30%, rgba(52,54,68,.8), transparent 70%),
+      radial-gradient(520px 460px at 78% 18%, rgba(43,47,60,.95), transparent 70%),
+      radial-gradient(420px 360px at 88% 96%, rgba(116,72,42,.6), transparent 70%),
+      #0E0F13;
+    font-family: Lato, sans-serif;
+  }
+  .text { position: absolute; left: 88px; top: 0; bottom: 0; width: 600px; display: flex; flex-direction: column; justify-content: center; }
+  .brand { display: flex; align-items: center; gap: 24px; margin-bottom: 44px; }
+  .brand img { width: 112px; height: 112px; filter: drop-shadow(0 12px 28px rgba(0,0,0,.45)); }
+  .brand span { font: 700 68px/1 Quicksand, sans-serif; letter-spacing: -.5px; }
+  h1 { font: 700 54px/1.12 Quicksand, sans-serif; margin: 0 0 22px; letter-spacing: -.3px; }
+  p { font-size: 28px; line-height: 1.4; margin: 0; color: rgba(245,245,247,.72); }
+  .phone {
+    position: absolute; right: 70px; top: 52px; width: 330px; border-radius: 46px; overflow: hidden;
+    box-shadow: 0 0 0 9px #1c1d22, 0 0 0 10px rgba(255,255,255,.12), 0 40px 80px rgba(0,0,0,.55);
+  }
+  .phone img { display: block; width: 100%; }
+  /* Square: the brand and the line, no phone. */
+  .square .card { width: 600px; height: 600px; }
+  .square .text { left: 56px; right: 56px; width: auto; align-items: flex-start; }
+  .square .brand img { width: 128px; height: 128px; }
+  .square .brand { flex-direction: column; align-items: flex-start; gap: 28px; }
+  .square h1 { font-size: 50px; }
+  .square .phone, .square p { display: none; }
+</style>
+<body>
+  <div class="card">
+    <div class="text">
+      <div class="brand"><img src="../assets/img/icon-512.png" alt=""><span>HeyNap</span></div>
+      <h1>Know when the next nap is coming.</h1>
+      <p>A baby sleep tracker that plans naps and bedtime around your baby.</p>
+    </div>
+    <div class="phone"><img src="screens/next-nap.png" alt=""></div>
+  </div>
+  <script>
+    if (new URLSearchParams(location.search).get('square')) document.body.className = 'square';
+  </script>
+</body>
