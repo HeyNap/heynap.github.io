@@ -39,7 +39,7 @@ tools/build-assets.sh
 It renders the icon from the Icon Composer layers (`tools/icon-layers/`, copied from
 `../appicon/icon-composer.icon`) in Chrome for Testing, the social cards from
 `tools/og.html`, and compresses the screenshots in `tools/screens/` (780 × 1768,
-captured from the app's harness with `naplog_preview/review/capture.py`, palette
+captured from the app's harness with `heynap/review/capture.py`, palette
 Slate (`palette=slate`): `app tab=today now=2026-09-19T10:15`, `log log=addmore`,
 `app tab=stats now=2026-09-19T20:30`). Needs `node`, `cwebp`, `pngquant`, `oxipng`.
 

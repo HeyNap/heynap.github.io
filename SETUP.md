@@ -109,6 +109,6 @@ the website. There's no Android equivalent of Safari's banner beyond that.
 
 ## 7. The app's links
 
-`naplog_preview/lib/config.dart`: `privacyUrl` → `https://heynap.app/privacy/`,
+`heynap/lib/config.dart`: `privacyUrl` → `https://heynap.app/privacy/`,
 `termsUrl` → `https://heynap.app/terms/` (or keep Apple's EULA), `supportEmail` →
 `postmuseapp+heynap@gmail.com`.
