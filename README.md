@@ -12,8 +12,8 @@ Setting up the domain, GitHub, the stores and the search consoles: [SETUP.md](SE
 | Path | What |
 |---|---|
 | `index.html` | The home page: value, three screenshots, questions, store badges |
-| `support/` | Contact, subscriptions, download and delete data (Google Play's deletion URL is `/support/#delete`) |
-| `privacy/`, `terms/` | The legal pages (written for accounts and sync already) |
+| `support/` | Contact, subscriptions, restoring purchases, deleting data (`/support/#delete`) |
+| `privacy/`, `terms/` | The legal pages, for the app as it is: offline, no accounts, Firebase and Amplitude for usage data and crash reports. Accounts or sync need them updated first (the 26 Oct accounts-ready versions are in git: `a643f52`) |
 | `404.html` | Not found |
 | `assets/site.css` | All styles (the app's Slate palette) |
 | `assets/fonts/` | Quicksand and Lato, subset to Latin + Latin Extended (Romanian and most European languages), WOFF2, self-hosted (no Google Fonts requests) |

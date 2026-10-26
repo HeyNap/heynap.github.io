@@ -85,7 +85,7 @@ app. Apple caches this file through its CDN; changes take up to a day.
 
 - Store listing → Privacy policy: `https://heynap.app/privacy/`; website
   `https://heynap.app/`; email `postmuseapp+heynap@gmail.com`.
-- App content → Data safety → *Delete account URL*: `https://heynap.app/support/#delete`.
+- App content → Data safety: HeyNap has no accounts, so no account-deletion URL is needed; if the form asks how to delete data, point at `https://heynap.app/support/#delete`.
 - Setup → App integrity → App signing → copy the **SHA-256 certificate
   fingerprint** into `.well-known/assetlinks.json` (in place of
   `REPLACE_WITH_PLAY_APP_SIGNING_SHA256`; add the upload key's too if you test
