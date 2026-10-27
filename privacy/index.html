@@ -47,7 +47,7 @@
           <li>Everything you log about your baby is stored only on your phone. It isn't sent to us or anyone else, and we can't see it.</li>
           <li>HeyNap has no accounts.</li>
           <li>The app sends usage data and, for some sessions, screen recordings to Google Firebase and Amplitude. Usage data never includes your baby's name, your notes, or health details, and recordings hide all text on screen.</li>
-          <li>When the app crashes, it sends a crash report to Sentry and Firebase Crashlytics, without names, notes or anything you logged.</li>
+          <li>The app sends crash reports and performance data to Sentry and Firebase Crashlytics. They never include names, notes or anything you logged, though their screen captures can show drawings such as the day ring.</li>
           <li>You can turn usage data off in the app's settings.</li>
           <li>If you allow notifications, we can send you messages through Firebase.</li>
           <li>Purchases go through the App Store and RevenueCat. We never see your card details.</li>
@@ -88,7 +88,7 @@
       <p>Usage events never include your baby's name, your notes, the birthday, or the details of health and growth entries (temperatures, medicines, symptoms, vaccines, doctor visits, weight, height, head size, teeth): for those, only that an entry was logged. We use this data to understand how the app is used, not to profile you. You can turn it off at any time with <strong>Share usage data</strong> in the app's settings. We don't use the advertising identifier and we don't track you across other companies' apps or websites.</p>
 
       <h3>1.4 Crash reports and performance</h3>
-      <p>When the app crashes, runs into an error or slows down, it sends a report to Sentry and Google Firebase Crashlytics, so we can fix it:</p>
+      <p>When the app crashes or runs into an error, it sends a report to Sentry and Google Firebase Crashlytics, so we can fix it. It also sends performance data to Sentry from every session, so we can keep the app fast:</p>
       <ul>
         <li><strong>What went wrong:</strong> the error, where in the app's code it happened, and the steps just before it: the app's own messages, the screens opened, which kind of button was tapped (never the words on it), and the app going to the background or running low on memory.</li>
         <li><strong>The screen:</strong> a screenshot and a short recording of the moments before the error, and the layout of the screen (which parts of the app were shown, without their text). All text and images are hidden in them; drawings, such as the day ring and the charts in Stats, are not (see 1.3).</li>
@@ -96,8 +96,8 @@
         <li><strong>Device information:</strong> device model, operating system and version, app version, and free memory and storage.</li>
         <li><strong>Identifiers:</strong> random identifiers that these services create for your app installation.</li>
       </ul>
-      <p>With Share usage data on, Sentry also records whole sessions (all of them, or a share we set), in the same way as the recordings in 1.3.</p>
-      <p>These reports never include your baby's name, your notes, or anything else you wrote or logged, except what a drawing shows on screen. Like any request over the internet, sending one shows your IP address to the provider; we don't use it to identify you. They are sent for every user, because we need them to keep the app working; if you object, write to us (section 13).</p>
+      <p>With Share usage data on, Sentry also records whole sessions (all of them, or a share we set), not just the moments before an error, in the same way as the recordings in 1.3.</p>
+      <p>These reports and the performance data never include your baby's name, your notes, or anything else you wrote or logged, except what a drawing shows on screen. Like any request over the internet, sending one shows your IP address to the provider; we don't use it to identify you. They are sent for every user, because we need them to keep the app working; if you object, write to us (section 13).</p>
 
       <h3>1.5 Remote settings</h3>
       <p>When it starts, the app downloads our own configuration from Google Firebase Remote Config. It holds settings of ours, not data about you: for example how many sessions are recorded, or which version of the plan a group of users gets, so we can compare them. Some settings differ between groups of users, so to pick the right ones the request carries your app installation's random identifier and the app's version, language and country. It isn't usage data, so Share usage data doesn't affect it.</p>
@@ -123,7 +123,7 @@
           <tr><td>Purchases and unlocking paid features</td><td>Purchase data</td><td>Performance of our contract with you</td></tr>
           <tr><td>Understanding how the app is used and improving it</td><td>Usage data</td><td>Our legitimate interest in improving HeyNap; you can turn it off in the app's settings</td></tr>
           <tr><td>Seeing where the app is hard to use</td><td>Session recordings</td><td>Our legitimate interest in improving HeyNap; you can turn it off in the app's settings</td></tr>
-          <tr><td>Finding and fixing crashes</td><td>Crash reports, device information</td><td>Our legitimate interest in an app that works</td></tr>
+          <tr><td>Finding and fixing crashes and slowness</td><td>Crash reports, performance data, device information</td><td>Our legitimate interest in an app that works</td></tr>
           <tr><td>Picking our remote settings for your app, such as trying a feature with some users first</td><td>Installation identifier, app version, language, country</td><td>Our legitimate interest in improving HeyNap</td></tr>
           <tr><td>Sending you notifications from us</td><td>Push token</td><td>Your consent, given when you allow notifications; you can withdraw it in your phone's settings</td></tr>
           <tr><td>Answering your messages</td><td>What you send us</td><td>Our legitimate interest in helping you</td></tr>
@@ -159,7 +159,7 @@
       <ul>
         <li><strong>What you log, on your phone:</strong> until you delete the entry, erase all data, or delete the app.</li>
         <li><strong>Usage data:</strong> up to 24 months. <strong>Session recordings:</strong> up to 90 days.</li>
-        <li><strong>Crash reports:</strong> up to 90 days.</li>
+        <li><strong>Crash reports and performance data:</strong> up to 90 days.</li>
         <li><strong>Push token:</strong> until you turn notifications off or delete the app, after which it stops working and Firebase removes it.</li>
         <li><strong>Purchase records:</strong> as long as tax and accounting law requires.</li>
         <li><strong>Emails:</strong> for as long as needed to help you, then up to 2 years.</li>
@@ -170,7 +170,7 @@
         <li>Delete any entry in the app, from its editor.</li>
         <li>Delete everything with <strong>Erase all data</strong> in the app's settings: your logs, your answers and your settings are deleted from your phone.</li>
         <li>Deleting the app deletes everything it stored on that phone. Copies in your phone's backups follow your backup settings.</li>
-        <li>To delete the usage data, session recordings and crash reports linked to your app installation, write to us (section 13); turning off Share usage data stops new usage data and recordings.</li>
+        <li>To delete the usage data, session recordings and crash reports linked to your app installation, write to us (section 13); turning off Share usage data stops new usage data and session recordings.</li>
       </ul>
 
       <h2>7. Security</h2>
