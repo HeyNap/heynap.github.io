@@ -8,7 +8,7 @@ HeyNap is published by Diaconu Mobile Apps SRL (Iasi, Romania; CUI 38455506, J22
 - How the plan works: it starts from what is typical for the baby's age (awake time between naps, number and length of naps, bedtime) and follows the baby's own rhythm as naps and bedtimes are logged (the last two weeks of logs count). It updates through the day from what is logged.
 - What can be logged: wake-ups, naps, bedtimes and night wakings; nursing, bottles, solids, pumping and diapers; baths, time outside, vitamin D, iron and probiotics; temperature, medicine, symptoms, vaccines and doctor visits; weight, height, head size and teeth (with WHO growth charts).
 - Price: free to download; logging is free. The plan, nap predictions and reminders are part of a subscription (monthly or one-time lifetime purchase), sold through the App Store.
-- Privacy: no accounts; everything logged is stored only on the phone. Usage analytics, session recordings (text hidden) and crash reports go to Google Firebase, Amplitude (EU) and Sentry (EU); usage events and crash reports never include the baby's name, notes or health details, and all of it can be turned off in the app. No data is sold or used for advertising.
+- Privacy: no accounts; everything logged is stored only on the phone. Usage analytics, session recordings (text hidden) and crash reports go to Google Firebase, Amplitude (EU) and Sentry (EU); usage events and crash reports never include the baby's name, notes or health details; usage data and recordings can be turned off in the app. No data is sold or used for advertising.
 - HeyNap is not medical advice and not a medical device.
 - Contact: postmuseapp+heynap@gmail.com
 
