@@ -75,12 +75,12 @@
       <p>Subscriptions and purchases are made through the App Store (or Google Play). Apple or Google handle the payment; we never receive your card details. Our purchase provider, RevenueCat, receives a random app user identifier, the products you buy, transaction identifiers, and your subscription's status, so the app knows what you have unlocked.</p>
 
       <h3>1.3 Usage data and session recordings</h3>
-      <p>To understand how HeyNap is used, the app sends usage data to Google Firebase (Analytics and Remote Config) and Amplitude:</p>
+      <p>To understand how HeyNap is used, the app sends usage data to Google Firebase Analytics and Amplitude:</p>
       <ul>
         <li><strong>Device information:</strong> device model, operating system and version, app version, language, region and time zone.</li>
         <li><strong>Approximate location:</strong> country and region, worked out from your IP address. We never collect precise (GPS) location.</li>
-        <li><strong>Usage events:</strong> how the app is used: which screens are opened and which buttons are pressed; your onboarding choices (your goals, your baby's usual wake-up time, number and length of naps, bedtime, and whether you gave names); your settings and the plan values you set; which sounds you play; and purchases started, completed or restored.</li>
-        <li><strong>About your logs:</strong> the kind of entry (a nap, a feed, a diaper), its time of day and length, and whether it has a note. For sleep, feeds, diapers and the routine, also its details: amounts (rounded), the type of milk, the type of diaper, where a nap happened.</li>
+        <li><strong>Usage events:</strong> how the app is used: which screens are opened and which buttons are pressed; your onboarding choices (your goals, your baby's usual wake-up time, number and length of naps, bedtime, and whether you gave names); your settings and the plan values you set; which sounds you play; notifications received and opened; and purchases started, completed or restored.</li>
+        <li><strong>About your logs:</strong> the kind of entry (a nap, a feed, a diaper), its time of day and length, and whether it has a note. For sleep, feeds, diapers and the routine, also its details: amounts (rounded), the type of milk, the type of diaper, where a nap happened. And how the plan's predictions compared with what you logged: how many minutes early or late.</li>
         <li><strong>About your baby:</strong> age in weeks and months (never the birthday), whether you're expecting and how many weeks are left, and your baby's sex if you set it.</li>
         <li><strong>Session recordings:</strong> for a share of sessions, Amplitude records what is on screen as you use the app, so we can see where the app is hard to use. All text on screen is hidden in these recordings, including names and notes. Drawings, such as the day ring and the charts in Stats, are not hidden, so a recording can show your baby's day on the ring, with the times drawn around it, or a chart with its figures.</li>
         <li><strong>Identifiers:</strong> random identifiers that these services create for your app installation.</li>
@@ -96,17 +96,20 @@
       </ul>
       <p>Crash reports never include your IP address, screenshots, your baby's name, your notes, or anything else you wrote or logged. They are sent for every user, because we need them to keep the app working; if you object, write to us (section 13).</p>
 
-      <h3>1.5 Reminders and notifications</h3>
-      <p>Reminders about naps and bedtime are scheduled on your phone by the app itself. Nothing about them is sent to us.</p>
-      <p>If you allow notifications, the app also registers with Firebase Cloud Messaging, which gives your phone a push token. We use it to send you messages from us, such as news about HeyNap or tips. You can turn notifications off at any time in your phone's settings.</p>
+      <h3>1.5 Remote settings</h3>
+      <p>When it starts, the app fetches its settings from Google Firebase Remote Config. This lets us change how the app works without an update, for example how many sessions are recorded, or which version of the plan a group of users gets to compare them. It sends random identifiers for your app installation and device information, and happens whether or not you share usage data.</p>
 
-      <h3>1.6 When you contact us</h3>
+      <h3>1.6 Reminders and notifications</h3>
+      <p>Reminders about naps and bedtime are scheduled on your phone by the app itself. Nothing about them is sent to us.</p>
+      <p>If you allow notifications, the app also registers with Firebase Cloud Messaging, which gives your phone a push token. We use it to send you messages from us, such as news about HeyNap or tips, either to everyone or to a group chosen from usage data (for example, parents of babies of a certain age). Receiving or opening a message is recorded in usage data, never its text. You can turn notifications off at any time in your phone's settings.</p>
+
+      <h3>1.7 When you contact us</h3>
       <p>If you email us, we receive your email address and whatever you choose to send, and we use it only to answer you.</p>
 
-      <h3>1.7 The website</h3>
+      <h3>1.8 The website</h3>
       <p>heynap.app is hosted by GitHub Pages. GitHub records visitors' IP addresses in its server logs for security; see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener">GitHub's privacy statement</a>. The website sets no cookies and runs no analytics.</p>
 
-      <h3>1.8 What we don't collect</h3>
+      <h3>1.9 What we don't collect</h3>
       <p>HeyNap has no accounts, so it never asks for your email address or a password. It doesn't access your contacts, photos, camera, microphone or precise location, and it doesn't use your device's advertising identifier.</p>
 
       <h2>2. How we use it, and on what legal basis</h2>
