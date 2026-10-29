@@ -11,15 +11,15 @@ Setting up the domain, GitHub, the stores and the search consoles: [SETUP.md](SE
 
 | Path | What |
 |---|---|
-| `index.html` | The home page: value, three screenshots, questions, store badges |
+| `index.html` | The home page (en-US): value, three store screenshots, questions, store badges |
 | `support/` | Contact, subscriptions, restoring purchases, deleting data (`/support/#delete`) |
 | `privacy/`, `terms/` | The legal pages, for the app as it is: offline, no accounts, Firebase and Amplitude for usage data and crash reports. Accounts or sync need them updated first (the 26 Oct accounts-ready versions are in git: `a643f52`) |
 | `404.html` | Not found |
 | `assets/site.css` | All styles (the app's Slate palette) |
-| `assets/lang.js` | The footer's language picker: the one list of languages |
-| `ro/`, … | The home page per App Store locale (see Adding a language) |
+| `assets/lang.js` | Closes the footer's language picker on a click elsewhere |
+| `ro/`, `en-GB/`, … | The home page per App Store locale (see below) |
 | `assets/fonts/` | Quicksand and Lato, subset to Latin + Latin Extended (Romanian and most European languages), WOFF2, self-hosted (no Google Fonts requests) |
-| `assets/img/` | Icons, screenshots (WebP 1× and 2×, PNG fallback), store badges, social cards |
+| `assets/img/` | Icons, store screenshots per locale (`store/`), App Store badges per language, social cards |
 | `robots.txt`, `sitemap.xml`, `llms.txt` | For search engines and AI assistants |
 | `site.webmanifest` | Icons, and `related_applications` for Android's install prompt |
 | `.well-known/` | `apple-app-site-association` (universal links, password autofill), `assetlinks.json` (Android app links), `security.txt` |
@@ -40,33 +40,40 @@ tools/build-assets.sh
 
 It renders the icon from the Icon Composer layers (`tools/icon-layers/`, copied from
 `../appicon/icon-composer.icon`) in Chrome for Testing, the social cards from
-`tools/og.html`, and compresses the screenshots in `tools/screens/` (780 × 1768,
+`tools/og.html` (which uses `tools/screens/next-nap.png`; the screens there are 780 × 1768,
 captured from the app's harness with `heynap/review/capture.py`, palette
 Slate (`palette=slate`): `app tab=today now=2026-09-19T10:15`, `log log=addmore`,
 `app tab=stats now=2026-09-19T20:30`). Needs `node`, `cwebp`, `pngquant`, `oxipng`.
 
-## Adding a language
+## The home page per locale
 
-One folder per App Store locale (`storeLocales` in the app's
-`lib/harness/store_shots.dart`), named by its id: `/ro/`, `/en-GB/`, … en-US stays at
-the root. For each locale's home page:
+One home page per App Store locale (`storeLocales` in the app's
+`lib/harness/store_shots.dart`): en-US at the root, every other locale in a folder named
+by its id (`/ro/`, `/en-GB/`, `/zh-Hant/`, …). They are all written by
 
-1. Copy `ro/index.html`, translate it, and set `<html lang>`, `og:locale` and the
-   canonical and `og:url`.
-2. Screenshots: the first three of `../heynap/fastlane/ios/screenshots/<locale>/`
-   (`1_iphone_ring`, `2_iphone_remind`, `3_iphone_add`) into `assets/img/store/<locale>/`
-   as WebP at 300 and 600 wide (`cwebp -q 70`) and a 300-wide JPEG fallback (`sips`,
-   quality 70); about 10–26 KB per WebP. No captions under them: each image's alt is
-   its `storeCopy` headline and sub-line, taken from `store_shots.dart`, never read off
-   the image.
-3. The App Store badge in that language, from Apple's badge tool
-   (`https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/<lang-region>?size=250x83`),
-   as `assets/img/badge-app-store-<locale>.svg`, with Apple's own wording as its alt.
-4. One `<link rel="alternate" hreflang="…">` per language plus `x-default` (the
-   English page), the same set on every version of the page, and the same in
-   `sitemap.xml` (`xhtml:link`, plus a `<url>` for the new page).
-5. One line in `assets/lang.js`: the footer's language picker reads that list on every
-   page (the pages carry only a fallback link to English).
+```bash
+python3 tools/build-locales.py
+```
+
+from `tools/site-i18n/<locale>.json` (the page's words; edit those, never the pages) and
+`tools/site-i18n/_store.json` (each screenshot's alt text: its `storeCopy` headline and
+sub-line, never read off the image). It also writes the footer's language picker into
+every page, the hreflang links, and the home pages' entries in `sitemap.xml`.
+
+- **The screenshots:** the first three of `../heynap/fastlane/ios/screenshots/<locale>/`
+  (`1_iphone_ring`, `2_iphone_remind`, `3_iphone_add`) as WebP in
+  `assets/img/store/<locale>/`: `<n>.webp` 300 wide (`cwebp -q 72`) and `<n>@2x.webp`
+  600 wide (`cwebp -q 70`), resized with `sips -Z 650` / `-Z 1300`. Redo them after
+  `review/store_export.py` changes the PNGs.
+- **`_store.json`:** after `storeCopy` changes, re-export it with a throwaway Dart file in
+  the app's `tool/` that prints `storeLine(locale, id)` for `ring`, `remind` and `add`
+  of every `storeLocales` entry.
+- **The badges:** `assets/img/badge-app-store-<locale>.svg` from Apple's badge tool
+  (`https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/<lang-region>?size=250x83`,
+  e.g. `ro-ro`, `nb-no`, `zh-tw`); English locales share `badge-app-store.svg`, fr-CA
+  uses fr-FR's. Their alt text, Apple's wording, is `BADGE_ALT` in the script.
+- **A new locale:** its entry in `LOCALES` (the script), its JSON, its screenshots and
+  badge, then run the script.
 
 The support, privacy and terms pages stay English for now.
 

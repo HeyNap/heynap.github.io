@@ -6,23 +6,1076 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://heynap.app/</loc>
-    <lastmod>2026-10-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://heynap.app/"/>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
-    <image:image><image:loc>https://heynap.app/assets/img/next-nap.png</image:loc></image:image>
-    <image:image><image:loc>https://heynap.app/assets/img/log.png</image:loc></image:image>
-    <image:image><image:loc>https://heynap.app/assets/img/stats.png</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-US/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-US/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-US/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/en-GB/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-GB/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-GB/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-GB/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/en-AU/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-AU/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-AU/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-AU/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/en-CA/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-CA/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-CA/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/en-CA/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/es-MX/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-MX/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-MX/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-MX/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/es-ES/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-ES/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-ES/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/es-ES/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/de-DE/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/de-DE/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/de-DE/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/de-DE/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/fr-FR/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-FR/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-FR/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-FR/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/fr-CA/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-CA/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-CA/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fr-CA/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/it/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/it/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/it/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/it/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/nl-NL/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/nl-NL/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/nl-NL/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/nl-NL/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/pt-BR/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-BR/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-BR/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-BR/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/pt-PT/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-PT/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-PT/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pt-PT/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/da/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/da/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/da/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/da/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/no/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/no/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/no/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/no/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/sv/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sv/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sv/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sv/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/fi/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fi/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fi/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/fi/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/pl/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pl/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pl/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/pl/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/cs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/cs/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/cs/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/cs/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/sk/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sk/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sk/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/sk/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/hu/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hu/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hu/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hu/3-add@2x.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://heynap.app/ro/</loc>
     <lastmod>2026-10-29</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
-    <image:image><image:loc>https://heynap.app/assets/img/store/ro/1-ring.jpg</image:loc></image:image>
-    <image:image><image:loc>https://heynap.app/assets/img/store/ro/2-remind.jpg</image:loc></image:image>
-    <image:image><image:loc>https://heynap.app/assets/img/store/ro/3-add.jpg</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/hr/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hr/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hr/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/hr/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/el/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/el/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/el/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/el/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/ru/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ru/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ru/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ru/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/th/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/th/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/th/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/th/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/ja/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ja/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ja/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ja/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/ko/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ko/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ko/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ko/3-add@2x.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/zh-Hant/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://heynap.app/en-GB/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://heynap.app/en-AU/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://heynap.app/en-CA/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://heynap.app/es-MX/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://heynap.app/es-ES/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://heynap.app/de-DE/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://heynap.app/fr-FR/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://heynap.app/fr-CA/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://heynap.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl-NL" href="https://heynap.app/nl-NL/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://heynap.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://heynap.app/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://heynap.app/da/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://heynap.app/no/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://heynap.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://heynap.app/fi/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://heynap.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://heynap.app/cs/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://heynap.app/sk/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://heynap.app/hu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heynap.app/hr/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://heynap.app/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://heynap.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://heynap.app/th/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://heynap.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://heynap.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://heynap.app/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/zh-Hant/1-ring@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/zh-Hant/2-remind@2x.webp</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/zh-Hant/3-add@2x.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://heynap.app/support/</loc>

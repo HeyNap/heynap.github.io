@@ -1,0 +1,437 @@
+{
+ "en-US": {
+  "name": "English (U.S.)",
+  "ring": [
+   "Predict naps and bedtime.",
+   "Based on your baby's age and the sleep you log."
+  ],
+  "remind": [
+   "We'll remind you before naps and bedtime.",
+   "And we adjust when a nap is missed."
+  ],
+  "add": [
+   "Track way more than sleep.",
+   null
+  ]
+ },
+ "en-GB": {
+  "name": "English (U.K.)",
+  "ring": [
+   "Predict naps and bedtime.",
+   "Based on your baby's age and the sleep you log."
+  ],
+  "remind": [
+   "We'll remind you before naps and bedtime.",
+   "And we adjust when a nap is missed."
+  ],
+  "add": [
+   "Track far more than sleep.",
+   null
+  ]
+ },
+ "en-AU": {
+  "name": "English (Australia)",
+  "ring": [
+   "Predict naps and bedtime.",
+   "Based on your baby's age and the sleep you log."
+  ],
+  "remind": [
+   "We'll remind you before naps and bedtime.",
+   "And we adjust when a nap is missed."
+  ],
+  "add": [
+   "Track far more than sleep.",
+   null
+  ]
+ },
+ "en-CA": {
+  "name": "English (Canada)",
+  "ring": [
+   "Predict naps and bedtime.",
+   "Based on your baby's age and the sleep you log."
+  ],
+  "remind": [
+   "We'll remind you before naps and bedtime.",
+   "And we adjust when a nap is missed."
+  ],
+  "add": [
+   "Track way more than sleep.",
+   null
+  ]
+ },
+ "es-MX": {
+  "name": "Spanish (Mexico)",
+  "ring": [
+   "Predice las siestas y la hora de dormir.",
+   "Según la edad de tu bebé y el sueño que registras."
+  ],
+  "remind": [
+   "Te avisamos antes de las siestas y de la hora de dormir.",
+   "Y ajustamos el plan si se salta una siesta."
+  ],
+  "add": [
+   "Registra mucho más que el sueño.",
+   null
+  ]
+ },
+ "de-DE": {
+  "name": "German",
+  "ring": [
+   "Schläfchen und Schlafenszeit vorhersagen.",
+   "Nach dem Alter deines Babys und dem Schlaf, den du einträgst."
+  ],
+  "remind": [
+   "Wir erinnern dich vor Schläfchen und Schlafenszeit.",
+   "Und wenn ein Schläfchen ausfällt, passen wir den Plan an."
+  ],
+  "add": [
+   "Viel mehr als Schlaf erfassen.",
+   null
+  ]
+ },
+ "fr-FR": {
+  "name": "French",
+  "ring": [
+   "Prédit les siestes et le coucher.",
+   "D'après l'âge de votre bébé et le sommeil que vous notez."
+  ],
+  "remind": [
+   "On vous prévient avant les siestes et le coucher.",
+   "Et on ajuste le plan quand une sieste est sautée."
+  ],
+  "add": [
+   "Suivez bien plus que le sommeil.",
+   null
+  ]
+ },
+ "fr-CA": {
+  "name": "French (Canada)",
+  "ring": [
+   "Prédit les siestes et le coucher.",
+   "D'après l'âge de votre bébé et le sommeil que vous notez."
+  ],
+  "remind": [
+   "On vous prévient avant les siestes et le coucher.",
+   "Et on ajuste le plan quand une sieste est sautée."
+  ],
+  "add": [
+   "Suivez bien plus que le sommeil.",
+   null
+  ]
+ },
+ "nl-NL": {
+  "name": "Dutch",
+  "ring": [
+   "Voorspelt dutjes en bedtijd.",
+   "Op basis van de leeftijd van je baby en de slaap die je bijhoudt."
+  ],
+  "remind": [
+   "We herinneren je op tijd aan dutjes en bedtijd.",
+   "En slaat je baby een dutje over, dan passen we het plan aan."
+  ],
+  "add": [
+   "Houd veel meer bij dan slaap.",
+   null
+  ]
+ },
+ "da": {
+  "name": "Danish",
+  "ring": [
+   "Forudsiger lure og sengetid.",
+   "Ud fra din babys alder og den søvn, du logger."
+  ],
+  "remind": [
+   "Vi minder dig om lur og sengetid i god tid.",
+   "Og vi justerer, når en lur bliver sprunget over."
+  ],
+  "add": [
+   "Følg meget mere end søvn.",
+   null
+  ]
+ },
+ "fi": {
+  "name": "Finnish",
+  "ring": [
+   "Ennustaa päiväunet ja nukkumaanmenon.",
+   "Vauvasi iän ja kirjaamasi unen perusteella."
+  ],
+  "remind": [
+   "Muistutamme ennen päiväunia ja nukkumaanmenoa.",
+   "Ja mukautamme suunnitelmaa, jos päiväunet jäävät väliin."
+  ],
+  "add": [
+   "Seuraa paljon muutakin kuin unta.",
+   null
+  ]
+ },
+ "no": {
+  "name": "Norwegian",
+  "ring": [
+   "Forutsier lurer og leggetid.",
+   "Ut fra babyens alder og søvnen du logger."
+  ],
+  "remind": [
+   "Vi minner deg på lur og leggetid i god tid.",
+   "Og vi justerer når en lur blir hoppet over."
+  ],
+  "add": [
+   "Følg med på mye mer enn søvn.",
+   null
+  ]
+ },
+ "es-ES": {
+  "name": "Spanish (Spain)",
+  "ring": [
+   "Predice las siestas y la hora de dormir.",
+   "Según la edad de tu bebé y el sueño que registras."
+  ],
+  "remind": [
+   "Te avisamos antes de las siestas y de la hora de dormir.",
+   "Y ajustamos el plan si se salta una siesta."
+  ],
+  "add": [
+   "Registra mucho más que el sueño.",
+   null
+  ]
+ },
+ "sv": {
+  "name": "Swedish",
+  "ring": [
+   "Förutser tupplurar och läggdags.",
+   "Utifrån bebisens ålder och sömnen du loggar."
+  ],
+  "remind": [
+   "Vi påminner dig före tupplur och läggdags.",
+   "Och vi justerar när en tupplur uteblir."
+  ],
+  "add": [
+   "Logga mycket mer än sömn.",
+   null
+  ]
+ },
+ "it": {
+  "name": "Italian",
+  "ring": [
+   "Prevede pisolini e nanna.",
+   "In base all'età del tuo bambino e al sonno che registri."
+  ],
+  "remind": [
+   "Ti avvisiamo prima dei pisolini e della nanna.",
+   "E se un pisolino salta, adattiamo il piano."
+  ],
+  "add": [
+   "Registra molto più del sonno.",
+   null
+  ]
+ },
+ "el": {
+  "name": "Greek",
+  "ring": [
+   "Πρόβλεψη υπνάκων και ώρας ύπνου.",
+   "Με βάση την ηλικία του μωρού σας και τον ύπνο που καταγράφετε."
+  ],
+  "remind": [
+   "Σας υπενθυμίζουμε πριν από υπνάκους και ώρα ύπνου.",
+   "Και προσαρμόζουμε το πλάνο αν χαθεί ένας υπνάκος."
+  ],
+  "add": [
+   "Καταγράψτε πολλά περισσότερα από τον ύπνο.",
+   null
+  ]
+ },
+ "cs": {
+  "name": "Czech",
+  "ring": [
+   "Předpovídá denní spánky i večerku.",
+   "Podle věku miminka a spánku, který zapíšete."
+  ],
+  "remind": [
+   "Připomeneme vám spánek i večerku včas.",
+   "A když spánek vypadne, plán upravíme."
+  ],
+  "add": [
+   "Sledujte mnohem víc než spánek.",
+   null
+  ]
+ },
+ "hu": {
+  "name": "Hungarian",
+  "ring": [
+   "Megjósolja a napközbeni alvásokat és a lefekvést.",
+   "A babád kora és a naplózott alvás alapján."
+  ],
+  "remind": [
+   "Emlékeztetünk alvás és lefekvés előtt.",
+   "És ha egy alvás kimarad, igazítunk a terven."
+  ],
+  "add": [
+   "Naplózz sokkal többet az alvásnál.",
+   null
+  ]
+ },
+ "pl": {
+  "name": "Polish",
+  "ring": [
+   "Przewiduje drzemki i porę snu.",
+   "Na podstawie wieku dziecka i snu, który zapisujesz."
+  ],
+  "remind": [
+   "Przypomnimy ci przed drzemką i porą snu.",
+   "A gdy drzemka wypadnie, dostosujemy plan."
+  ],
+  "add": [
+   "Zapisuj dużo więcej niż sen.",
+   null
+  ]
+ },
+ "pt-PT": {
+  "name": "Portuguese (Portugal)",
+  "ring": [
+   "Prevê as sestas e a hora de deitar.",
+   "Com base na idade do seu bebé e no sono que regista."
+  ],
+  "remind": [
+   "Avisamos antes das sestas e da hora de deitar.",
+   "E ajustamos o plano se uma sesta falhar."
+  ],
+  "add": [
+   "Registe muito mais do que o sono.",
+   null
+  ]
+ },
+ "ru": {
+  "name": "Russian",
+  "ring": [
+   "Предсказывает дневной сон и отбой.",
+   "По возрасту малыша и сну, который вы записываете."
+  ],
+  "remind": [
+   "Напомним перед дневным сном и отбоем.",
+   "А если сон пропущен, подстроим план."
+  ],
+  "add": [
+   "Отмечайте гораздо больше, чем сон.",
+   null
+  ]
+ },
+ "zh-Hant": {
+  "name": "Chinese (Traditional)",
+  "ring": [
+   "預測小睡與就寢時間。",
+   "依寶寶的月齡和你記錄的睡眠。"
+  ],
+  "remind": [
+   "小睡和就寢前，我們會提醒你。",
+   "小睡錯過了，我們會調整計畫。"
+  ],
+  "add": [
+   "記錄的不只是睡眠。",
+   null
+  ]
+ },
+ "ro": {
+  "name": "Romanian",
+  "ring": [
+   "Prezice somnurile de zi și culcarea.",
+   "După vârsta bebelușului și somnul pe care îl notezi."
+  ],
+  "remind": [
+   "Îți amintim înainte de somn și de culcare.",
+   "Și adaptăm planul când un somn e sărit."
+  ],
+  "add": [
+   "Notează mult mai mult decât somnul.",
+   null
+  ]
+ },
+ "hr": {
+  "name": "Croatian",
+  "ring": [
+   "Predviđa dnevno spavanje i lijeganje.",
+   "Prema dobi vaše bebe i snu koji bilježite."
+  ],
+  "remind": [
+   "Podsjetit ćemo vas prije dnevnog spavanja i lijeganja.",
+   "A kad spavanje izostane, prilagodimo plan."
+  ],
+  "add": [
+   "Pratite puno više od spavanja.",
+   null
+  ]
+ },
+ "ja": {
+  "name": "Japanese",
+  "ring": [
+   "お昼寝と就寝の時間を予測。",
+   "赤ちゃんの月齢と、記録した睡眠にもとづいて。"
+  ],
+  "remind": [
+   "お昼寝と就寝の前にお知らせ。",
+   "お昼寝を逃したら、プランを調整。"
+  ],
+  "add": [
+   "睡眠以外もたっぷり記録。",
+   null
+  ]
+ },
+ "ko": {
+  "name": "Korean",
+  "ring": [
+   "낮잠과 취침 시간을 예측해요.",
+   "아기의 개월 수와 기록한 수면을 바탕으로."
+  ],
+  "remind": [
+   "낮잠과 취침 전에 알려드려요.",
+   "낮잠을 건너뛰면 계획을 조정해요."
+  ],
+  "add": [
+   "수면 말고도 훨씬 많이 기록해요.",
+   null
+  ]
+ },
+ "pt-BR": {
+  "name": "Portuguese (Brazil)",
+  "ring": [
+   "Prevê as sonecas e a hora de dormir.",
+   "Com base na idade do seu bebê e no sono que você registra."
+  ],
+  "remind": [
+   "Avisamos antes das sonecas e da hora de dormir.",
+   "E ajustamos o plano se uma soneca for pulada."
+  ],
+  "add": [
+   "Registre muito mais do que o sono.",
+   null
+  ]
+ },
+ "sk": {
+  "name": "Slovak",
+  "ring": [
+   "Predpovedá denné spánky aj večierku.",
+   "Podľa veku bábätka a spánku, ktorý zapisujete."
+  ],
+  "remind": [
+   "Pripomenieme vám spánky aj večierku včas.",
+   "A keď spánok vypadne, plán upravíme."
+  ],
+  "add": [
+   "Sledujte oveľa viac než spánok.",
+   null
+  ]
+ },
+ "th": {
+  "name": "Thai",
+  "ring": [
+   "คาดการณ์เวลานอนกลางวันและเวลาเข้านอน",
+   "จากอายุของลูกและการนอนที่คุณบันทึก"
+  ],
+  "remind": [
+   "เราจะเตือนก่อนเวลานอนกลางวันและเวลาเข้านอน",
+   "และปรับแผนให้เมื่อลูกไม่ได้นอนกลางวัน"
+  ],
+  "add": [
+   "บันทึกได้มากกว่าแค่การนอน",
+   null
+  ]
+ }
+}
