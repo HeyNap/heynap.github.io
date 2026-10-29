@@ -66,6 +66,21 @@ h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.15; l
 .foot nav { display: flex; flex-wrap: wrap; gap: 8px 22px; }
 .foot a { color: var(--text-2); text-decoration: none; }
 .foot a:hover { color: var(--text); text-decoration: underline; }
+/* The language picker: a list that opens upward from the footer. */
+.lang { position: relative; margin-left: auto; }
+.lang summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 8px; color: var(--text-2); }
+.lang summary::-webkit-details-marker { display: none; }
+.lang summary::after { content: '▾'; color: var(--text-3); font-size: 12px; }
+.lang summary:hover { color: var(--text); }
+.lang ul {
+  position: absolute; bottom: calc(100% + 10px); right: 0; z-index: 5; margin: 0; padding: 8px;
+  list-style: none; min-width: 200px; max-height: min(60vh, 420px); overflow-y: auto;
+  background: #16171C; border: 1px solid var(--hairline); border-radius: 14px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, .5);
+}
+.lang ul a { display: block; padding: 8px 12px; border-radius: 8px; color: var(--text-2); }
+.lang ul a:hover { background: var(--surface); color: var(--text); text-decoration: none; }
+.lang ul a[aria-current] { color: var(--text); font-weight: 700; }
 
 /* Store badges: Apple's and Google's artwork, unaltered, at equal height. */
 .stores { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
