@@ -90,6 +90,13 @@ h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.15; l
   aspect-ratio: 780 / 1768; background: var(--ink);
 }
 .phone img { display: block; width: 100%; height: 100%; }
+/* A store screenshot: its words and phone are in the image. */
+.shot {
+  width: 100%; max-width: 300px; margin: 0 auto; border-radius: 22px; overflow: hidden;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, .10), 0 30px 60px rgba(0, 0, 0, .5);
+  aspect-ratio: 1290 / 2796; background: var(--ink);
+}
+.shot img { display: block; width: 100%; height: 100%; }
 .screens h2 { font-size: 24px; margin-bottom: 10px; }
 .screens p { margin: 0 auto; color: var(--text-2); max-width: 22em; }
 @media (max-width: 860px) {

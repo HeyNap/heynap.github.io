@@ -8,10 +8,21 @@
     <loc>https://heynap.app/</loc>
     <lastmod>2026-10-26</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
     <image:image><image:loc>https://heynap.app/assets/img/next-nap.png</image:loc></image:image>
     <image:image><image:loc>https://heynap.app/assets/img/log.png</image:loc></image:image>
     <image:image><image:loc>https://heynap.app/assets/img/stats.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://heynap.app/ro/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://heynap.app/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://heynap.app/ro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heynap.app/"/>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/1-ring.jpg</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/2-remind.jpg</image:loc></image:image>
+    <image:image><image:loc>https://heynap.app/assets/img/store/ro/3-add.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://heynap.app/support/</loc>
